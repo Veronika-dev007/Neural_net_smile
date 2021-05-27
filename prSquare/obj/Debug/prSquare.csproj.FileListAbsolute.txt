@@ -1,0 +1,12 @@
+D:\project\prSquare\prSquare\bin\Debug\prSquare.exe.config
+D:\project\prSquare\prSquare\bin\Debug\prSquare.exe
+D:\project\prSquare\prSquare\bin\Debug\prSquare.pdb
+D:\project\prSquare\prSquare\bin\Debug\FANNCSharp.dll
+D:\project\prSquare\prSquare\obj\Debug\prSquare.csprojAssemblyReference.cache
+D:\project\prSquare\prSquare\obj\Debug\prSquare.Form1.resources
+D:\project\prSquare\prSquare\obj\Debug\prSquare.Properties.Resources.resources
+D:\project\prSquare\prSquare\obj\Debug\prSquare.csproj.GenerateResource.cache
+D:\project\prSquare\prSquare\obj\Debug\prSquare.csproj.CoreCompileInputs.cache
+D:\project\prSquare\prSquare\obj\Debug\prSquare.csproj.CopyComplete
+D:\project\prSquare\prSquare\obj\Debug\prSquare.exe
+D:\project\prSquare\prSquare\obj\Debug\prSquare.pdb
